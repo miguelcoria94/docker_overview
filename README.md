@@ -29,4 +29,11 @@ docker stop
 docker rm
 
 
+docker run <images>
+
+Daemon does  all the heavy listening 
+
+Default registry is the Docker Hub
+
+
 
