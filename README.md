@@ -18,5 +18,9 @@ images - stopped containers
 
 containers - running images
 
+NOTE: You can pull images from docker hub using 'Docker Pull' - This will pull the latest images
+
+
+
 
 
