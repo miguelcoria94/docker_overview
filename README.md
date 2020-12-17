@@ -20,7 +20,13 @@ containers - running images
 
 NOTE: You can pull images from docker hub using 'Docker Pull' - This will pull the latest images
 
+When you create a container it goes to running state and started and stopped
 
+docker start
+
+docker stop
+
+docker rm
 
 
 
