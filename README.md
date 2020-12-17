@@ -35,5 +35,11 @@ Daemon does  all the heavy listening
 
 Default registry is the Docker Hub
 
+#Swarm mode and microservices
 
+#Swarmmode - native clustering
+
+a swarm is a native clustering engine
+
+Manager nodes maintain the swarm and only one is the leader
 
